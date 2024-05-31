@@ -16,11 +16,9 @@
 * `bulk requests`
 
 # **Prerequisites**
-```
 * `bs4`
 * `aiofiles`
 * `aiohttp`
-```
 `pip install -r /path/to/requirements.txt`
 
 # **Usage**
