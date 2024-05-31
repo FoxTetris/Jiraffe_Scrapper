@@ -14,13 +14,10 @@
 * `get/post requests`
 * `user agent rotator`
 * `bulk requests`
-`rotating proxy (wip)`
+* `rotating proxy (wip)`
 
 # **Prerequisites**
-* `bs4`
-* `aiofiles`
-* `aiohttp`
-`pip install -r /path/to/requirements.txt`
+* `pip install -r /path/to/requirements.txt`
 
 # **Usage**
 Provide instructions on how to use the script, including any command-line arguments or options.
