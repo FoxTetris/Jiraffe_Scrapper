@@ -9,20 +9,17 @@
 
 
 # **Main features**
-```
-keep session
-persist data
-get/post requests
-user agent rotator
-bulk requests
-```
+* `keep session`
+* `persist data`
+* `get/post requests`
+* `user agent rotator`
+* `bulk requests`
 
 # **Prerequisites**
 ```
-bs4
-aiofiles
-aiohttp
-python 3.9+
+* `bs4`
+* `aiofiles`
+* `aiohttp`
 ```
 `pip install -r /path/to/requirements.txt`
 
@@ -38,4 +35,4 @@ Additinal parameters can be set in the CLI interface.
 If you have any ideas or can improve on it, the contributions are always welcome.
 
 # **License**
-CC BY-NC
+* `CC BY-NC`
