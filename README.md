@@ -1,4 +1,6 @@
-# **⚠️ DISCLAIMER: This is a somewhat quick and probably poorly programmed script (all in one file so that's a yes) that i used for a little project. Use at your own risk only! I'm not responsible for any damage if you use this code.⚠️**
+# **⚠️ DISCLAIMER:⚠️** 
+**This is a somewhat quick and probably poorly programmed script (all in one file so that's a yes) that i used for a little project.**
+**Use at your own risk only! I'm not responsible for any damage if you use this code.**
 
 ![GitHub python version](https://img.shields.io/pypi/pyversions/lxml?style=for-the-badge)
 ![GitHub Created At](https://img.shields.io/github/created-at/Tetris/jiraffe?style=for-the-badge)
