@@ -22,8 +22,9 @@
 * `pip install -r /path/to/requirements.txt`
 
 # **Usage**
-Provide instructions on how to use the script, including any command-line arguments or options.
-Include any examples or code snippets to illustrate usage. ***NOTE***: `You may have to modify the code for specified resource`
+At first launch the script will create `config.ini` and `payload.json`, restart the script to make sure the configurations are used.
+To parse a specific website with the ability to retain session data specify the get url as well as post url that will be used for the payload argumment.
+***NOTE***: `You may have to modify the code for specified resource`
 
 # **Configuration**
 The configuration files will be created on first launch, ***I advice you to reload script after first launch to make sure the json is available.***
