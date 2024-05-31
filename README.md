@@ -31,7 +31,7 @@ Provide instructions on how to use the script, including any command-line argume
 Include any examples or code snippets to illustrate usage. ***NOTE***: `You may have to modify the code for specified resource`
 
 # **Configuration**
-The configuration files will be created on first launch, ***I advice you to reload script after first launch to make sure the json is available***
+The configuration files will be created on first launch, ***I advice you to reload script after first launch to make sure the json is available.***
 Additinal parameters can be set in the CLI interface.
 
 # **Contributing**
