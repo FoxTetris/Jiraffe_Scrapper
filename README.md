@@ -14,6 +14,7 @@
 * `get/post requests`
 * `user agent rotator`
 * `bulk requests`
+`rotating proxy (wip)`
 
 # **Prerequisites**
 * `bs4`
